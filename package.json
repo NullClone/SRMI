@@ -1,9 +1,9 @@
 {
   "name": "jp.null.srmi",
-  "version": "0.2.1",
+  "version": "0.3.2",
   "displayName": "SRMI",
-  "description": "Tools to make Unity's Editor easier to see.",
-  "unity": "2019.3",
+  "description": "",
+  "unity": "2019.4",
   "author": {
     "name": "Null",
     "url": "https://github.com/NullClone"
