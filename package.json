@@ -1,6 +1,6 @@
 {
   "name": "jp.null.srmi",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "displayName": "SRMI",
   "description": "Tools to make Unity's Editor easier to see.",
   "unity": "2019.3",
